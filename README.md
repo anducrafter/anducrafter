@@ -1,4 +1,4 @@
-# Hi there, I'm Anducrafter 👋
+# Hi there, I'm Anducrafter
 
 🎓 Currently completing my **Matura** with a focus on *Wirtschaft und Recht* (Economics and Law), and an additional subject in **Informatik (Computer Science)** in Switzerland.
 
