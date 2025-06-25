@@ -1,6 +1,6 @@
 # Hi there, I'm Anducrafter
 
-🎓 Currently completing my **Matura** with a focus on *Wirtschaft und Recht* (Economics and Law), and an additional subject in **Informatik (Computer Science)** in Switzerland. d
+🎓 Currently completing my **Matura** with a focus on *Wirtschaft und Recht* (Economics and Law), and an additional subject in **Informatik (Computer Science)** in Switzerland.
 
 💻 Passionate about coding, especially in full-stack development and game/plugin development with **Java (Spigot)** and **JavaScript**.
 
